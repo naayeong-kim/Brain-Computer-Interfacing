@@ -1,2 +1,5 @@
 # Brain-Computer-Interfacing
-(Brain-Computer Interfacing) Repository for self study 
+
+## 1. Linear Discriminant Analysis (LDA)
+- [code](01_LDA/01_LDA_Linear_Discriminant_Analysis.ipynb)<br/>
+
